@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537196793079",
+    "firebase_url": "https://whereit-75a4f.firebaseio.com",
+    "project_id": "whereit-75a4f",
+    "storage_bucket": "whereit-75a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537196793079:android:3ee14a738f5682d1",
+        "android_client_info": {
+          "package_name": "com.nursery.islam.whereit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537196793079-fftto4em9mfeucdg0qdbsis39csibgp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursery.islam.whereit",
+            "certificate_hash": "0a51840708f7bd4961c7901068ea31bf0bdcede4"
+          }
+        },
+        {
+          "client_id": "537196793079-k6a7ksko0i1mbjvl4qu6t8cgo5e9dri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqZne5QfvuBLuPtb-4jD80TNoG0WGQXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537196793079-k6a7ksko0i1mbjvl4qu6t8cgo5e9dri9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
