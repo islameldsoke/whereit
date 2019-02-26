@@ -6,6 +6,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.view.View
+import com.nursery.islam.whereit.addmissingcard.MainActivity
 
 class SplashActivity : AppCompatActivity() {
 

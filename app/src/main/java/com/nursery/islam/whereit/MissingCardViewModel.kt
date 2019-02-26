@@ -17,5 +17,4 @@ class MissingCardViewModel: ViewModel{
         databaseReference = database.reference
     }
 
-    fun addMissingCard:bool
 }
